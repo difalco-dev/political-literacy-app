@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "0.0.1",
+  "description": "",
+  "main": "api_gateway.js",
+  "scripts": {
+    "test": "node --max-old-space-size=8192 api_gateway.js DEBUG"
+  },
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "keywords": [
+    "null"
+  ],
+  "author": "Anthony DiFalco & Tommy Lynch",
+  "license": "SEE LICENSE IN ../license.txt",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
